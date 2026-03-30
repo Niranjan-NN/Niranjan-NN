@@ -126,8 +126,8 @@ Object detection and query-based image analysis tool powered by ML and Python ba
 | Degree | Institution | Year | Score |
 |--------|-------------|------|-------|
 | B.Tech — Information Technology | SNS College of Engineering | 2022–2026 | GPA: 8.22 / 10 |
-| HSC | Thambu Hr. Sec. School | — | 74% |
-| SSLC | Thambu Hr. Sec. School | — | 65% |
+| HSC | Thambu Hr. Sec. School | 2022 | 74% |
+| SSLC | Thambu Hr. Sec. School | 2020 | 65% |
 
 ---
 

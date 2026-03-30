@@ -145,20 +145,6 @@ Object detection and query-based image analysis tool powered by ML and Python ba
 
 `SQL` `Machine Learning` `Data Visualization` `Python` `Artificial Intelligence` `Generative AI` `React.js` `Excel`
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiranjanNN&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NiranjanNN&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiranjanNN&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 

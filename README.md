@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Scientist · Full-Stack Developer · AI & GenAI Builder</h3>
 
 <p align="center">
-  📍 Coimbatore, Tamil Nadu &nbsp;|&nbsp; 📧 <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="b2dcdbc0d3dcd8d3dc8a858b8283f2d5dfd3dbde9cd1dddf">[email&#160;protected]</a> &nbsp;|&nbsp; 📞 +91 9944456377
+  📍 Coimbatore, Tamil Nadu &nbsp;|&nbsp; 📧 <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="b2dcdbc0d3dcd8d3dc8a858b8283f2d5dfd3dbde9cd1dddf">niranjan87901@gmail.com</a> &nbsp;|&nbsp; 📞 +91 9944456377
 </p>
 
 <p align="center">
